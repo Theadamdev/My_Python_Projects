@@ -99,3 +99,4 @@ if level == 200 :
     print("Just the time you maybe took to chose the hard difficulty was the only key to success")
 print(f"------------ I'm very proud of you {name} , You're the best You're killing it literally ------------")
 print("------------ Thank you for your time ------------")
+#thank you
