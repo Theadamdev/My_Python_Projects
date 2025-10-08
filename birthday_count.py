@@ -1,3 +1,4 @@
+#Happy birthday
 import datetime
 today = datetime.date.today()
 month : int = today.month
@@ -12,3 +13,4 @@ else :
     print(f"Your birthday is in {days_left} days")
     if days_left == 0 :
         print("I hope you\'re fasting today")
+
