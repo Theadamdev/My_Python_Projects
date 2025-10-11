@@ -1,3 +1,4 @@
+#I'm pround of myself
 print('Hi , my name is Bot and i know nothing about you')
 name : str = input('What is your name ? ')
 print(f'Welcome , {name} !')
@@ -30,4 +31,5 @@ favourite_color : str = input("What is your favourite color ? \n "
       "4.Yellow \n "
       "Enter your choice : ")
 print("That's enough questions for today")
+
 print(f'You name is {name} , you are {mood} , you are a {gender} and your favourite color is {favourite_color}')
