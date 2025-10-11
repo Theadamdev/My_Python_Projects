@@ -1,3 +1,4 @@
+#Functions are amazing
 a: int = int(input("Enter a number :"))
 b: int = int(input("Enter another number :"))
 
@@ -12,3 +13,4 @@ def arithmetic(x:int , y:int) -> None :
         print('Sorry , Division by zero is not allowed')
         
 arithmetic(a,b)
+
