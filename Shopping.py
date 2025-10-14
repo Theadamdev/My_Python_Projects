@@ -1,3 +1,4 @@
+#I'm seeing progress Woah!!
 name = str(input("Hello , What is your name ? "))
 foods = []
 prices = []
@@ -19,4 +20,5 @@ for food in foods :
 for price in prices :
     total += price
 print()
+
 print(f"So , {name} , your total is: ${total}")
