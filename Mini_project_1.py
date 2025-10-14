@@ -1,3 +1,4 @@
+#First game
 print("------------- The Traveler Of The Abyss -------------")
 print("Welcome traveler , you have achieved a massive feat by coming here , congrats ")
 print("So traveler , what's your name ?")
@@ -100,3 +101,4 @@ if level == 200 :
 print(f"------------ I'm very proud of you {name} , You're the best You're killing it literally ------------")
 print("------------ Thank you for your time ------------")
 #thank you
+
