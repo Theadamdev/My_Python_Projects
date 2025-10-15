@@ -1,3 +1,4 @@
+#My first pythn quiz using loops and collections
 questions = ("What does GPT in chatGPT mean? : ",
              "What's the biggest animal in the world? : ",
              "What is the largest planet in the solar system? :",
@@ -42,3 +43,4 @@ if score >= 50:
     print("Congratulations! You passed !")
 else :
     print("Sorry! You failed !")
+
