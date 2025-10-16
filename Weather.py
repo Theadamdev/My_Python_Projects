@@ -1,3 +1,4 @@
+#Find temperatute outside
 temp = float(input("Enter the temperature in Celsius : "))
 rain = float(input("Enter the percentage of rain : "))
 wind = float(input("Enter the wind speed in km/h : "))
@@ -47,4 +48,5 @@ elif 15<=temp<=22 and 20 <= rain <= 40 and 8<= wind <= 18 and 50<=humidity<=65 :
 elif 23<=temp<=30 and 10 <= rain <= 25 and 8<= wind <= 16 and 45<=humidity<=60 :
     print("It's warm outside")
 else :
+
     print("There is not enough data regarding your situation ")
