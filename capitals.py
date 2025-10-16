@@ -1,3 +1,4 @@
+#Find the capitals of the 20 most known countries in the world
 country = str(input("What country do you wanna know the capital of ? : ")).capitalize()
 capitals = {"USA": "Washington D.C" ,
             "China": "Beijing" ,
@@ -24,4 +25,5 @@ capitals = {"USA": "Washington D.C" ,
 if country in capitals:
     print(f"The capital of {country} is {capitals.get(country)}")
 else :
+
     print("Sorry , but we don't have your country")
