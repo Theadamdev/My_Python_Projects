@@ -1,4 +1,5 @@
 #Welcome to my theatre ladies and gentlmen
+#please leave a comment if you found any errors
 print("Hello , Welcome to the Adam Theatre , the best theatre in the world ")
 name = str(input("So , what is your name ? : "))
 menu = {"pizza":5.50 ,
@@ -26,3 +27,4 @@ print( )
 print(f"So ,{name} , your total is  ${total}")
 
 print("------------------------------------")
+
