@@ -1,3 +1,4 @@
+#Welcome to my theatre ladies and gentlmen
 print("Hello , Welcome to the Adam Theatre , the best theatre in the world ")
 name = str(input("So , what is your name ? : "))
 menu = {"pizza":5.50 ,
@@ -23,4 +24,5 @@ for food in cart:
     print(food , end = " ")
 print( )
 print(f"So ,{name} , your total is  ${total}")
+
 print("------------------------------------")
