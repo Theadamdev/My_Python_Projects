@@ -1,3 +1,4 @@
+#This is impossible
 import random
 low = 1
 high = 100
@@ -13,4 +14,5 @@ while is_Running:
         is_Running = False
     else :
         print("Sorry, you didn't guess the right number")
+
 print(f"The right number was {answer}")
